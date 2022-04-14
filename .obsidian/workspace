@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "2e4c3874b2ab1a5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d33755b10c6f67bd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pages/trans_1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "38981b4adf31ae96",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pages/Preface.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea2c93cabc70980f",
+    "type": "split",
+    "children": [
+      {
+        "id": "53f09a3dd3b928dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c18f8d9ef689827",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d076d25b099ce7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bdb202da3eb4ac69",
+    "type": "split",
+    "children": [
+      {
+        "id": "60bd6e3549d37ca1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d69037e7043e4f44",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pages/trans_1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d33755b10c6f67bd",
+  "lastOpenFiles": [
+    "Pages/trans_1.md",
+    "Pages/Preface.md",
+    "Pages/References.md",
+    "Pages/Prerequisite.md",
+    "Pages/GettingStarted.md",
+    "Pages/DragonQuest.md",
+    "Pages/DirtyYourHands.md",
+    "Pages/Advanced.md"
+  ]
+}

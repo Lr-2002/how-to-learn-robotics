@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/trans_1.md",
+            "file": "Pages/trans_2.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pages/Preface.md",
+            "file": "Pages/Prerequisite.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "bdb202da3eb4ac69",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pages/trans_1.md",
+                "file": "Pages/trans_2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,10 +102,11 @@
   },
   "active": "d33755b10c6f67bd",
   "lastOpenFiles": [
-    "Pages/trans_1.md",
-    "Pages/Preface.md",
-    "Pages/References.md",
+    "Pages/trans_2.md",
     "Pages/Prerequisite.md",
+    "Pages/Preface.md",
+    "Pages/trans_1.md",
+    "Pages/References.md",
     "Pages/GettingStarted.md",
     "Pages/DragonQuest.md",
     "Pages/DirtyYourHands.md",
